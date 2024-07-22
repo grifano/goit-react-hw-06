@@ -1,8 +1,8 @@
-<img src="./src/assets/react-logo.svg" alt="react logo" width="10%"/>
+<img src="./src/assets/react-logo.svg" alt="react logo" width="10%"/><img src="./src/assets/redux.png" alt="redux logo" width="10%"/>
 
-# React Phonebook App
+# React + Redux Phonebook App
 
-## Module 3: Forms
+## Module 6: Redux and Global State Managment
 
 <img src="./src/assets/screenshot.webp" alt="app screenshot" width="50%"/>
 
